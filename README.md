@@ -13,6 +13,6 @@ Missed appointments (no-shows) cost clinics wasted capacity, staff time, and del
 •	Repeat-offender concentration: 40% of patients (679 of 1,696) account for 72.4% of all no-shows — the highest-leverage finding for targeting intervention
 •	Confirmed prior no-show history remains the strongest associated factor
 
-![Dashboard Preview](Week 5/preview.jpg)
+![Dashboard Preview](Week5/preview.jpg)
 
 Used Power BI (Power Query + DAX) for KPI calculation and dashboard visualization.
