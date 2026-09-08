@@ -16,3 +16,16 @@ Missed appointments (no-shows) cost clinics wasted capacity, staff time, and del
 ![Dashboard Preview](./Week%205/preview.jpg)
 
 Used Power BI (Power Query + DAX) for KPI calculation and dashboard visualization.
+
+# Week 6 Progress
+- Revised the dashboard from the Week 5 version into a sharper, findings-focused layout (Appointment Outcome, Reminder Status, Distance to Clinic, and Booking Lead Days panels), and scoped the analysis specifically to Attended vs. No-Show comparisons. 
+
+- Week 5's dashboard surfaced factors without interpreting them. Week 6's dashboard was simplified, dropping panels that weren't adding interpretive value in favor of ones that support the four advanced findings.
+
+![Dashboard Preview]
+
+## More Findings
+- Distance shows a measurable separation: Attended patients average 9.67km from the facility versus 10.53km for No-Show patients.
+- Booking lead time shows a visible effect. Patients averaging around 34 lead days were more likely to no-show than those around 24 days.
+
+I delivered the first version of findings that moves beyond description into interpretation — giving the project concrete, stakeholder-ready reasoning (e.g., the mobile clinic and booking cut-off recommendations) rather than just metrics
