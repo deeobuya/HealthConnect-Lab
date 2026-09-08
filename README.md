@@ -22,7 +22,7 @@ Used Power BI (Power Query + DAX) for KPI calculation and dashboard visualizatio
 
 - Week 5's dashboard surfaced factors without interpreting them. Week 6's dashboard was simplified, dropping panels that weren't adding interpretive value in favor of ones that support the four advanced findings.
 
-![Dashboard Preview]
+![Dashboard Preview](./Week&206/V2.jpg)
 
 ## More Findings
 - Distance shows a measurable separation: Attended patients average 9.67km from the facility versus 10.53km for No-Show patients.
