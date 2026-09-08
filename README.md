@@ -8,10 +8,10 @@ For Week 5, I delved into the HealthConnect data, examining appointment no-shows
 Missed appointments (no-shows) cost clinics wasted capacity, staff time, and delayed care for other patients. This project analyzes appointment-level data to find out how the clinic can use their data to reduce missed appointments and improve patient support experience.
 
 ## Key Findings
-• No-show rate: 48.46% (2,423 of 5,000 appointments)
-•	Reminder effectiveness: reminders are associated with a 4.03pp (≈7.85% relative) reduction in no-shows
-•	Repeat-offender concentration: 40% of patients (679 of 1,696) account for 72.4% of all no-shows — the highest-leverage finding for targeting intervention
-•	Confirmed prior no-show history remains the strongest associated factor
+- No-show rate: 48.46% (2,423 of 5,000 appointments)
+- Reminder effectiveness: reminders are associated with a 4.03pp (≈7.85% relative) reduction in no-shows
+- Repeat-offender concentration: 40% of patients (679 of 1,696) account for 72.4% of all no-shows — the highest-leverage finding for targeting intervention
+- Confirmed prior no-show history remains the strongest associated factor
 
 ![Dashboard Preview](./Week%205/preview.jpg)
 
@@ -22,7 +22,7 @@ Used Power BI (Power Query + DAX) for KPI calculation and dashboard visualizatio
 
 - Week 5's dashboard surfaced factors without interpreting them. Week 6's dashboard was simplified, dropping panels that weren't adding interpretive value in favor of ones that support the four advanced findings.
 
-![Dashboard Preview](./Week&206/V2.jpg)
+![Dashboard Preview](./Week%206/V2.jpg)
 
 ## More Findings
 - Distance shows a measurable separation: Attended patients average 9.67km from the facility versus 10.53km for No-Show patients.
