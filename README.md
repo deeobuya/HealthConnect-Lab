@@ -28,4 +28,16 @@ Used Power BI (Power Query + DAX) for KPI calculation and dashboard visualizatio
 - Distance shows a measurable separation: Attended patients average 9.67km from the facility versus 10.53km for No-Show patients.
 - Booking lead time shows a visible effect. Patients averaging around 34 lead days were more likely to no-show than those around 24 days.
 
-I delivered the first version of findings that moves beyond description into interpretation — giving the project concrete, stakeholder-ready reasoning (e.g., the mobile clinic and booking cut-off recommendations) rather than just metrics
+I delivered the first version of findings that moves beyond description into interpretation — giving the project concrete, stakeholder-ready reasoning (e.g., the mobile clinic and booking cut-off recommendations) rather than just metrics.
+
+# Week 7 Progress - Analytical Testing
+WStatistically validated all three Week 6 findings using a chi-square test and two t-tests, and corrected a scoping error from Week 6 where Cancelled appointments were excluded from the dashboard, which was skewing the results, and have now been reintroduced.
+
+## Key Findings (as of Week 7)
+- No-show rate: 48.46% (2,423 of 5,000 appointments)
+- Repeat-offender concentration: 72.43% of no-shows come from patients with 2+ prior no-shows (679 of 1,696 patients)
+- Reminder effectiveness: 4.03pp reduction in no-shows — statistically significant (p = 0.00346) but a modest association
+- Distance to clinic: 0.86km average gap between No-Show and Attended patients — statistically significant (p = 8.14×10⁻⁶) but a modest influence
+- Booking lead time: 10.01-day average gap between No-Show and Attended patients — statistically significant (p = 1.07×10⁻⁹⁰) and the strongest validated driver of the three.
+
+All three relationships are confirmed statistically real, not artifacts of sample size or chance. Booking lead time is by far the most decisive and actionable of the three.
