@@ -41,3 +41,8 @@ WStatistically validated all three Week 6 findings using a chi-square test and t
 - Booking lead time: 10.01-day average gap between No-Show and Attended patients — statistically significant (p = 1.07×10⁻⁹⁰) and the strongest validated driver of the three.
 
 All three relationships are confirmed statistically real, not artifacts of sample size or chance. Booking lead time is by far the most decisive and actionable of the three.
+
+# Week 8 - Finalizing
+My final component is The HealthConnect Analytics & Decision Support Package consisting of validated KPIs, dashboard, and business recommendations. It addresses the problem of identifying and statistically confirming which factors drive appointment no-shows, so HealthConnect can prioritize interventions with confidence. It is currently validated and ready for final packaging to handover back to the facility for action. 
+
+
