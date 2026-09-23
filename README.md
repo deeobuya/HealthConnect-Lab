@@ -45,4 +45,4 @@ All three relationships are confirmed statistically real, not artifacts of sampl
 # Week 8 - Finalizing
 My final component is The HealthConnect Analytics & Decision Support Package consisting of validated KPIs, dashboard, and business recommendations. It addresses the problem of identifying and statistically confirming which factors drive appointment no-shows, so HealthConnect can prioritize interventions with confidence. It is currently validated and ready for final packaging to handover back to the facility for action. 
 
-
+![Final Dashboard](./Week%208/w8.jpg)
